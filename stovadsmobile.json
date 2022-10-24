@@ -573,6 +573,10 @@
           "type": "color",
           "description": "Brand Color Blue"
         }
+      },
+      "test2": {
+        "value": "#000000",
+        "type": "color"
       }
     },
     "lineHeights": {
