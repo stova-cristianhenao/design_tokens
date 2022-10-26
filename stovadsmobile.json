@@ -897,6 +897,24 @@
         "value": "75%",
         "type": "opacity"
       }
+    },
+    "fontWeightNumber": {
+      "light": {
+        "value": "300",
+        "type": "fontWeights"
+      },
+      "Regular": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "Medium": {
+        "value": "500",
+        "type": "fontWeights"
+      },
+      "Semi-bold": {
+        "value": "600",
+        "type": "fontWeights"
+      }
     }
   },
   "native-light": {
@@ -1267,25 +1285,25 @@
     "fontWeight": {
       "Utility": {
         "light": {
-          "value": "{fontWeights.light}",
+          "value": "{fontWeightNumber.light}",
           "type": "fontWeights"
         },
         "regular": {
-          "value": "{fontWeights.regular}",
+          "value": "{fontWeightNumber.Regular}",
           "type": "fontWeights"
         },
         "medium": {
-          "value": "{fontWeights.medium}",
+          "value": "{fontWeightNumber.Medium}",
           "type": "fontWeights"
         },
         "semi-bold": {
-          "value": "{fontWeights.i-semiBold}",
+          "value": "{fontWeightNumber.Semi-bold}",
           "type": "fontWeights"
         }
       },
       "Headings": {
         "semiBold": {
-          "value": "{fontWeights.ppps-semiBold}",
+          "value": "{fontWeightNumber.Semi-bold}",
           "type": "fontWeights"
         }
       }
@@ -2146,25 +2164,25 @@
     "fontWeight": {
       "Utility": {
         "light": {
-          "value": "{fontWeights.light}",
+          "value": "{fontWeightNumber.light}",
           "type": "fontWeights"
         },
         "regular": {
-          "value": "{fontWeights.regular}",
+          "value": "{fontWeightNumber.Regular}",
           "type": "fontWeights"
         },
         "medium": {
-          "value": "{fontWeights.medium}",
+          "value": "{fontWeightNumber.Medium}",
           "type": "fontWeights"
         },
         "semi-bold": {
-          "value": "{fontWeights.i-semiBold}",
+          "value": "{fontWeightNumber.Semi-bold}",
           "type": "fontWeights"
         }
       },
       "Headings": {
         "semiBold": {
-          "value": "{fontWeights.ppps-semiBold}",
+          "value": "{fontWeightNumber.Semi-bold}",
           "type": "fontWeights"
         }
       }
