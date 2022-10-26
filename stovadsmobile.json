@@ -1572,6 +1572,16 @@
           "value": "{Neutral.gray.200}",
           "type": "color"
         }
+      },
+      "toolbar": {
+        "main": {
+          "value": "{Neutral.black}",
+          "type": "color"
+        },
+        "negative": {
+          "value": "{Neutral.white}",
+          "type": "color"
+        }
       }
     },
     "Default": {
@@ -2435,6 +2445,16 @@
       "Divider": {
         "divider": {
           "value": "{Dark.600}",
+          "type": "color"
+        }
+      },
+      "toolbar": {
+        "main": {
+          "value": "{Neutral.white}",
+          "type": "color"
+        },
+        "negative": {
+          "value": "{Neutral.white}",
           "type": "color"
         }
       }
