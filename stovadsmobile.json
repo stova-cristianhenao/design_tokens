@@ -1766,7 +1766,7 @@
         "Light": {
           "value": {
             "fontFamily": "{fontFamily.Utility}",
-            "fontWeight": "{fontWeights.light}",
+            "fontWeight": "{fontWeight.Utility.light}",
             "lineHeight": "8",
             "fontSize": "{xxs}",
             "letterSpacing": "{Normal}",
