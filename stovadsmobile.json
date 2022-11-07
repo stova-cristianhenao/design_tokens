@@ -1817,6 +1817,17 @@
             "paragraphSpacing": "{paragraphSpacing.0}"
           },
           "type": "typography"
+        },
+        "Semi-bold": {
+          "value": {
+            "fontFamily": "{fontFamily.Utility}",
+            "fontWeight": "{fontWeight.Utility.semi-bold}",
+            "lineHeight": "8",
+            "fontSize": "{xxs}",
+            "letterSpacing": "{Normal}",
+            "paragraphSpacing": "{paragraphSpacing.0}"
+          },
+          "type": "typography"
         }
       }
     },
