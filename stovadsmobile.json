@@ -1626,6 +1626,12 @@
             "type": "color"
           }
         }
+      },
+      "banner": {
+        "info": {
+          "value": "{Feedback.Info.50}",
+          "type": "color"
+        }
       }
     },
     "Default": {
@@ -2555,6 +2561,12 @@
             "value": "{Dark.500}",
             "type": "color"
           }
+        }
+      },
+      "banner": {
+        "info": {
+          "value": "{Feedback.Info.900}",
+          "type": "color"
         }
       }
     },
