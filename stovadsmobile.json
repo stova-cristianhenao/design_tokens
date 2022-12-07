@@ -820,7 +820,11 @@
         "description": "Global Spacer - 72px"
       },
       "12": {
-        "value": "10",
+        "value": "10px",
+        "type": "spacing"
+      },
+      "13": {
+        "value": "20px",
         "type": "spacing"
       }
     },
