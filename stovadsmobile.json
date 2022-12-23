@@ -1644,6 +1644,50 @@
           "value": "{Feedback.Info.50}",
           "type": "color"
         }
+      },
+      "Radio-button": {
+        "background": {
+          "default": {
+            "value": "{Foreground.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{Primary.500}",
+            "type": "color"
+          },
+          "default-disable": {
+            "value": "{Neutral.gray.100}",
+            "type": "color"
+          },
+          "active-disabl": {
+            "value": "{Primary.200}",
+            "type": "color"
+          },
+          "outline": {
+            "default": {
+              "value": "{Primary.500}",
+              "type": "color"
+            },
+            "disable": {
+              "value": "{Neutral.gray.200}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{Tertiary.500}",
+              "type": "color"
+            }
+          }
+        },
+        "icons": {
+          "default": {
+            "value": "{Neutral.white}",
+            "type": "color"
+          },
+          "disable": {
+            "value": "{Neutral.gray.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "Default": {
@@ -2579,6 +2623,50 @@
         "info": {
           "value": "{Feedback.Info.900}",
           "type": "color"
+        }
+      },
+      "Radio-button": {
+        "background": {
+          "default": {
+            "value": "{Foreground.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{Primary.500}",
+            "type": "color"
+          },
+          "default-disable": {
+            "value": "{Dark.600}",
+            "type": "color"
+          },
+          "active-disable": {
+            "value": "{Primary.200}",
+            "type": "color"
+          }
+        },
+        "outline": {
+          "default": {
+            "value": "{Primary.500}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{Tertiary.500}",
+            "type": "color"
+          },
+          "disable": {
+            "value": "{Dark.300}",
+            "type": "color"
+          }
+        },
+        "icons": {
+          "default": {
+            "value": "{Neutral.accent}",
+            "type": "color"
+          },
+          "disable": {
+            "value": "{Dark.500}",
+            "type": "color"
+          }
         }
       }
     },
