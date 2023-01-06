@@ -1688,6 +1688,52 @@
             "type": "color"
           }
         }
+      },
+      "Notification-List-Item": {
+        "new": {
+          "bg": {
+            "value": "{Feedback.Info.50}",
+            "type": "color"
+          },
+          "indicator": {
+            "value": "{Feedback.Info.500}",
+            "type": "color"
+          }
+        },
+        "icon-background": {
+          "check-in": {
+            "value": "{Secondary.100}",
+            "type": "color"
+          },
+          "session": {
+            "value": "{Primary.200}",
+            "type": "color"
+          },
+          "office-hours": {
+            "value": "{Tertiary.300}",
+            "type": "color"
+          },
+          "1:1": {
+            "value": "{Secondary.300}",
+            "type": "color"
+          },
+          "liked": {
+            "value": "{Neutral.gray.200}",
+            "type": "color"
+          },
+          "approved": {
+            "value": "{Feedback.Success.100}",
+            "type": "color"
+          },
+          "polls": {
+            "value": "{Feedback.Info.200}",
+            "type": "color"
+          },
+          "survey": {
+            "value": "{Feedback.Warning.200}",
+            "type": "color"
+          }
+        }
       }
     },
     "Default": {
@@ -2665,6 +2711,52 @@
           },
           "disable": {
             "value": "{Dark.500}",
+            "type": "color"
+          }
+        }
+      },
+      "Notification-List-Item": {
+        "new": {
+          "bg": {
+            "value": "{Dark.700}",
+            "type": "color"
+          },
+          "indicator": {
+            "value": "{Dark.400}",
+            "type": "color"
+          }
+        },
+        "icon-background": {
+          "check-in": {
+            "value": "{Secondary.100}",
+            "type": "color"
+          },
+          "session": {
+            "value": "{Primary.200}",
+            "type": "color"
+          },
+          "office-hours": {
+            "value": "{Tertiary.300}",
+            "type": "color"
+          },
+          "1:1": {
+            "value": "{Secondary.300}",
+            "type": "color"
+          },
+          "liked": {
+            "value": "{Neutral.gray.200}",
+            "type": "color"
+          },
+          "approved": {
+            "value": "{Feedback.Success.100}",
+            "type": "color"
+          },
+          "polls": {
+            "value": "{Feedback.Info.200}",
+            "type": "color"
+          },
+          "survey": {
+            "value": "{Feedback.Warning.200}",
             "type": "color"
           }
         }
