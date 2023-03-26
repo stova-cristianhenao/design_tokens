@@ -1734,6 +1734,32 @@
             "type": "color"
           }
         }
+      },
+      "Polls_Results_Bars": {
+        "bg": {
+          "winner": {
+            "value": "{Primary.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{Primary.100}",
+            "type": "color"
+          },
+          "total": {
+            "value": "{Background.default}",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "percentage": {
+            "value": "{Neutral.gray.800}",
+            "type": "color"
+          },
+          "votes": {
+            "value": "{Typography.auxiliar}",
+            "type": "color"
+          }
+        }
       }
     },
     "Default": {
@@ -2757,6 +2783,32 @@
           },
           "survey": {
             "value": "{Feedback.Warning.200}",
+            "type": "color"
+          }
+        }
+      },
+      "Polls_Results_Bars": {
+        "bg": {
+          "winner": {
+            "value": "{Primary.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{Primary.100}",
+            "type": "color"
+          },
+          "total": {
+            "value": "{Background.default}",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "votes": {
+            "value": "{Typography.auxiliar}",
+            "type": "color"
+          },
+          "percentage": {
+            "value": "{Neutral.gray.800}",
             "type": "color"
           }
         }
